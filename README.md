@@ -15,6 +15,6 @@
 + `Reproducibility`: information necessary to recreate conclusions and to spark further exploration.
 
 ## Contact:
-Alex Yu. Nikitin (an58@cornell.edu) <br>
+Alexander Yu. Nikitin (an58@cornell.edu) <br>
 Benjamin D. Cosgrove (bdc68@cornell.edu) <br>
 Coulter Q. Ralston (cqr3@cornell.edu) <br>
