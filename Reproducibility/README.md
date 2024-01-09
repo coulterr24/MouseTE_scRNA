@@ -6,7 +6,9 @@ Within a linux terminal and with CellRanger downloaded with the proper file path
 `cellranger count --id=run_count_1kpbmcs \
    --fastqs=/path_to/uterine_tube1_fastqs \
    --sample=uterine_tube1 \
-   --transcriptome=/path_to/mm39_ref_genome`
+   --transcriptome=/path_to/mm39_ref_genome` <br> <br>
+
+Note: This is computationally intensive for most standard computers. If you are on a local PC, I would advise starting from the processed gene count matrices or the prepared Seurat Objects
 
 ### Preprocessing Distal and Proximal Objects
 Refer to code in `MouseTE_scRNA/Data_Preprocessing/` to reproduce preproccessing results <br> <br>
