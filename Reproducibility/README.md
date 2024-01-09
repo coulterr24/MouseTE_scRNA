@@ -29,6 +29,8 @@ Final objects for all datasets were created within the preprocessing scripts. TH
 ### Exploration of Final Distal and Proximal Objects
 Now that the objects are available, try recreating the figures from the manuscript with these datasets as the input. Full guides can be followed for each figure from the scripts found in `MouseTE_scRNA/Figure_Scripts/`. <br>
 
+Each figure should take only about 2-10 minutes to recreate with the properly loaded objects and packages <br>
+
 If there are any issues with certain packages, refer to 'sessionInfo.txt' to ensure that versions match. <br>
 
 Feel free to explore beyond the figures and delve into other cell types as well :)
