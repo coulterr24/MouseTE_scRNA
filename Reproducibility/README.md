@@ -10,6 +10,11 @@ Within a linux terminal and with CellRanger downloaded with the proper file path
 
 Note: This is computationally intensive for most standard computers. If you are on a local PC, I would advise starting from the processed gene count matrices or the prepared Seurat Objects
 
+### Setting Up R and RStudio
+Install R (v.4.1.1) and Rstudio (https://rstudio-education.github.io/hopr/starting.html): approximately 15-30 min <br> <br>
+
+Install packages found in the 'sessionInfo.txt' with proper versions to properly recreate the figures: approximately 60 min <br> <br>
+
 ### Preprocessing Distal and Proximal Objects
 Refer to code in `MouseTE_scRNA/Data_Preprocessing/` to reproduce preproccessing results <br> <br>
 #### Distal and Proximal Objects for All Cells
