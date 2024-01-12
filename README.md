@@ -4,7 +4,7 @@
 [Flesken-Nikitin*, Ralston*, et al., _bioRxiv_, 2023](https://doi.org/10.1101/2023.12.12.571315)
 
 ### Data Availability:
-+  `Seurat Objects`: completely processed objects for quick analysis of cell types withen the mouse uterine tube. [LINK](https://doi.org/10.5061/dryad.t4b8gtj34) [active upon publication]
++  `Seurat Objects`: completely processed objects for quick analysis of cell types withen the mouse uterine tube. [LINK](https://doi.org/10.5061/dryad.4mw6m90hm) [active upon publication]
 +  `Raw Data`: raw and processed scRNA-seq data for distal and proximal mouse uterine tubes. GSE252786 [active upon publication]
 
 ### Subdirectories
