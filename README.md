@@ -1,7 +1,7 @@
 # MouseTE_scRNA
 
-### Preprint Link:
-[Flesken-Nikitin*, Ralston*, et al., _bioRxiv_, 2023](https://doi.org/10.1101/2023.12.12.571315)
+### Manuscript Link:
+[Flesken-Nikitin*, Ralston*, et al., _Nature Communications_, 2023](https://doi.org/10.1038/s41467-024-52984-1) 
 
 ### Data Availability:
 +  `Seurat Objects`: completely processed objects for quick analysis of cell types withen the mouse uterine tube. [LINK](https://doi.org/10.5061/dryad.4mw6m90hm) [active upon publication]
